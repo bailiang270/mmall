@@ -1,5 +1,6 @@
 D:\白亮\项目2\mmall\src\main\java\com\mmall\dao\PayInfoMapper.java
 D:\白亮\项目2\mmall\src\main\java\com\mmall\dao\OrderMapper.java
+D:\白亮\项目2\mmall\src\main\java\com\mmall\service\impl\CategoryServiceImpl.java
 D:\白亮\项目2\mmall\src\main\java\com\mmall\pojo\User.java
 D:\白亮\项目2\mmall\src\main\java\com\mmall\common\ServiceResponse.java
 D:\白亮\项目2\mmall\src\main\java\com\mmall\pojo\Order.java
@@ -9,6 +10,7 @@ D:\白亮\项目2\mmall\src\main\java\com\mmall\pojo\Cart.java
 D:\白亮\项目2\mmall\src\main\java\com\mmall\pojo\PayInfo.java
 D:\白亮\项目2\mmall\src\main\java\com\mmall\util\MD5Util.java
 D:\白亮\项目2\mmall\src\main\java\com\mmall\dao\UserMapper.java
+D:\白亮\项目2\mmall\src\main\java\com\mmall\service\ICategoryService.java
 D:\白亮\项目2\mmall\src\main\java\com\mmall\common\TokenCache.java
 D:\白亮\项目2\mmall\src\main\java\com\mmall\dao\ProductMapper.java
 D:\白亮\项目2\mmall\src\main\java\com\mmall\common\Const.java
@@ -18,6 +20,7 @@ D:\白亮\项目2\mmall\src\main\java\com\mmall\service\impl\UserServiceImpl.jav
 D:\白亮\项目2\mmall\src\main\java\com\mmall\common\ResponseCode.java
 D:\白亮\项目2\mmall\src\main\java\com\mmall\dao\ShippingMapper.java
 D:\白亮\项目2\mmall\src\main\java\com\mmall\pojo\OrderItem.java
+D:\白亮\项目2\mmall\src\main\java\com\mmall\controller\backend\CategoryManageController.java
 D:\白亮\项目2\mmall\src\main\java\com\mmall\dao\CartMapper.java
 D:\白亮\项目2\mmall\src\main\java\com\mmall\dao\OrderItemMapper.java
 D:\白亮\项目2\mmall\src\main\java\com\mmall\pojo\Shipping.java
